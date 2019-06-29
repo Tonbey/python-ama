@@ -1,0 +1,2 @@
+# python-ama
+just practice
